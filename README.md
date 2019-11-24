@@ -24,10 +24,10 @@ This based on the consensus between devs.
 - Remove rem code.
 - Meaning function or method name.
 
-## Office.com:
+## Redmine checklists:
 
-- Put your due date for the task you do.
-- Change status from TO DO to IN PROGRESS.
+- []Put your due date for the task you do.
+- Change status from NEW to IN PROGRESS.
 - Create a pull request with the name is your task link (Ex: https://tasks.office.com/finso.com.vn/EN-US/Home/Planner#/plantaskboard?groupId=251812cd-f5a1-4733-888f-64375c952141&planId=HYbIVCuPHEevVPuFaidjrskACaU1&taskId=FPKucuB7VkKoXrMXtf1SfMkADPEY). Add description and show your evidence like screenshots, gif, ...
 - Follow the task based on our roadmap. If you see it's not important for now, please move it to our BACK LOG.
  
