@@ -37,3 +37,9 @@ This based on the consensus between devs.
 
 ## Golang:
 - https://github.com/uber-go/guide/blob/master/style.md
+
+## HTML/CSS: 
+- https://google.github.io/styleguide/htmlcssguide.html
+
+## VueJS:
+- https://vuejs.org/v2/style-guide/
